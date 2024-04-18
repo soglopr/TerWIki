@@ -2,6 +2,7 @@
 Wikipedia right in your terminal. 
 <!--Badges-->
 ![Static Badge](https://img.shields.io/badge/TerWiki-Soglopr-Soglopr)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/soglopr/TerWiki)
 ![GitHub watchers](https://img.shields.io/github/watchers/soglopr/TerWiki)
 ![GitHub Repo stars](https://img.shields.io/github/stars/soglopr/TerWiki)
 ![GitHub License](https://img.shields.io/github/license/soglopr/TerWIki)
